@@ -10,8 +10,8 @@ public class SumClassTest {
 
     @Test
     public void testSum() {
-        int numberOne = 7;
-        int numberTwo = 7;
+        int numberOne = 10;
+        int numberTwo = 4;
 
         Assertions.assertEquals(14, sum(numberOne, numberTwo));
     }
