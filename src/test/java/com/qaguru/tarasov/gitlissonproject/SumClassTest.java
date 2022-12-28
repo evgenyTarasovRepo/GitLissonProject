@@ -3,7 +3,7 @@ package com.qaguru.tarasov.gitlissonproject;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class MainClass {
+public class SumClassTest {
     public static int sum(int a, int b) {
         return a + b;
     }
